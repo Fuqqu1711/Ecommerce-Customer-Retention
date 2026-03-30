@@ -1,95 +1,80 @@
-# 🛒 E-Commerce Customer Retention Analysis Dashboard
+# 🛒 E-Commerce Customer Retention Analysis
 
-## 📌 Project Overview
-
-This project focuses on analyzing customer retention behavior for an e-commerce business. The dashboard provides insights into customer segmentation, purchasing trends, loyalty patterns, and retention performance. It is designed to help business teams understand customer engagement, identify high-value customers, and improve long-term retention strategies.
-
-The dashboard was built using Power BI with a strong emphasis on business storytelling, KPI tracking, and customer segmentation through RFM analysis.
+## 📌 Problem Statement  
+The business faced challenges in understanding customer retention patterns and identifying high-value customers contributing to long-term revenue. There was limited visibility into repeat purchase behavior, customer loyalty, and churn trends.
 
 ---
 
-## 🎯 Business Objectives
-
-* Measure overall customer retention performance
-* Identify loyal and high-value customers
-* Track monthly retention trends
-* Understand new customer acquisition patterns
-* Segment customers based on RFM methodology
-* Analyze revenue contribution by category and region
+## 🎯 Business Objective  
+- Analyze customer retention and repeat purchase behavior  
+- Identify loyal and high-value customers  
+- Track monthly retention and acquisition trends  
+- Segment customers using RFM methodology  
+- Enable data-driven retention strategies  
 
 ---
 
-## 📊 Key Dashboard Features
-
-* **Sales Trends:** Monthly revenue performance tracking
-* **Revenue by Category:** Category-wise sales distribution
-* **Retention Rate %:** Monthly customer retention tracking
-* **Loyal Customers %:** Identification of repeat buyers
-* **RFM Segmentation:** Customer grouping based on recency, frequency, and monetary value
-* **New Customers by City:** Regional acquisition insights
-* **Top 10 Loyal Customers:** High-value customer identification
-* **Retained vs New Customers:** Monthly retention matrix
+## 📊 Dataset  
+- E-commerce transactional dataset  
+- Includes customer ID, purchase history, revenue, category, and location  
+- ~[Add Approx Record Count] records  
 
 ---
 
-## 💡 KPIs Tracked
-
-* Total Sales
-* Active Customers
-* Retention Rate %
-* Loyal Customers %
-* Retained Customers Count
-* New Customers Count
+## 📈 Key KPIs  
+- Total Sales: ₹1.71M  
+- Active Customers: 162  
+- Retention Rate: 89.5%  
+- Loyal Customers: 37.7%  
 
 ---
 
-## 🛠 Tools & Technologies
+## 🔍 Key Insights  
 
-* **Power BI** – Data modeling and dashboard development
-* **DAX (Data Analysis Expressions)** – Custom measures and calculations
-* **Excel** – Data cleaning and preparation
-* **GitHub** – Project hosting and version control
-
----
-
-## 📈 Analytical Techniques Used
-
-* RFM Customer Segmentation
-* Trend Analysis
-* Category and Regional Performance Analysis
-* Retention Cohort Logic
-* KPI Monitoring with Interactive Filters
+- A significant portion of revenue is driven by repeat customers, indicating strong dependency on loyal users  
+- Monthly retention trends show fluctuations, highlighting inconsistent engagement strategies  
+- RFM segmentation revealed clear groups of loyal, active, and dormant customers  
+- Certain cities contribute higher new customer acquisition, indicating regional growth opportunities  
+- Top customers contribute a disproportionate share of revenue, suggesting potential for targeted loyalty programs  
 
 ---
 
-## 📂 Repository Contents
+## 💡 Business Recommendations  
 
-* `Ecommerce_Customer_Retention.pbix` – Power BI Dashboard File
-* `Data_Files/` – Raw and cleaned datasets
-* `README.md` – Project Documentation
-
----
-
-## 🧠 Learning Outcomes
-
-* Practical implementation of RFM segmentation
-* Building retention-focused business dashboards
-* Writing advanced DAX measures
-* Designing executive-ready Power BI reports
-* Converting raw data into actionable insights
+- Launch targeted retention campaigns for dormant and at-risk customers  
+- Introduce loyalty programs to increase repeat purchase frequency  
+- Focus marketing efforts on high-performing regions  
+- Improve onboarding experience to retain new customers early  
+- Personalize offers based on RFM customer segments  
 
 ---
 
-## ⭐ Let’s Connect
-
-IIf you found this project insightful, feel free to share feedback or give this repository a ⭐. 
-Feel free to connect me on linked in : https://www.linkedin.com/in/furqaan-panwala-6a316b160/
-
-
-* Share feedback for improvement
+## 🛠 Tools & Technologies  
+- Power BI – Dashboard development  
+- DAX – KPI calculations and measures  
+- SQL / Excel – Data preparation and analysis  
 
 ---
 
-## 🏷 Hashtags
+## 📊 Dashboard Features  
+- Monthly Sales Trends  
+- Retention & Loyalty Metrics  
+- RFM Segmentation  
+- Revenue by Category  
+- Customer Acquisition by Region  
+- Top Customer Analysis  
 
-#PowerBI #CustomerRetention #RFMAnalysis #DataAnalytics #BusinessIntelligence #DashboardDesign #DataVisualization #Fuqqu1711
+---
+
+## 📂 Repository Contents  
+- `Ecommerce_Customer_Retention.pbix` – Power BI Dashboard  
+- `Data_Files/` – Dataset files  
+- `README.md` – Documentation  
+
+---
+
+## 🧠 Key Learnings  
+- Applied RFM segmentation for customer behavior analysis  
+- Built retention-focused KPIs and dashboards  
+- Translated raw data into actionable business insights  
+- Designed stakeholder-ready reports in Power BI  
